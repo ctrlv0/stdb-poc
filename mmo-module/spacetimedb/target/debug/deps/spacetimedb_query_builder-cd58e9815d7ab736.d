@@ -1,0 +1,8 @@
+/workspaces/codespaces-blank/mmo-module/spacetimedb/target/debug/deps/spacetimedb_query_builder-cd58e9815d7ab736.d: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spacetimedb-query-builder-2.0.2/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spacetimedb-query-builder-2.0.2/src/expr.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spacetimedb-query-builder-2.0.2/src/join.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spacetimedb-query-builder-2.0.2/src/table.rs
+
+/workspaces/codespaces-blank/mmo-module/spacetimedb/target/debug/deps/libspacetimedb_query_builder-cd58e9815d7ab736.rmeta: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spacetimedb-query-builder-2.0.2/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spacetimedb-query-builder-2.0.2/src/expr.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spacetimedb-query-builder-2.0.2/src/join.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spacetimedb-query-builder-2.0.2/src/table.rs
+
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spacetimedb-query-builder-2.0.2/src/lib.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spacetimedb-query-builder-2.0.2/src/expr.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spacetimedb-query-builder-2.0.2/src/join.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spacetimedb-query-builder-2.0.2/src/table.rs:

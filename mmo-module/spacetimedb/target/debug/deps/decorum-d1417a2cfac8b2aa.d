@@ -1,0 +1,11 @@
+/workspaces/codespaces-blank/mmo-module/spacetimedb/target/debug/deps/decorum-d1417a2cfac8b2aa.d: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/decorum-0.3.1/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/decorum-0.3.1/src/canonical.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/decorum-0.3.1/src/cmp.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/decorum-0.3.1/src/constraint.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/decorum-0.3.1/src/hash.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/decorum-0.3.1/src/primitive.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/decorum-0.3.1/src/proxy.rs
+
+/workspaces/codespaces-blank/mmo-module/spacetimedb/target/debug/deps/libdecorum-d1417a2cfac8b2aa.rmeta: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/decorum-0.3.1/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/decorum-0.3.1/src/canonical.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/decorum-0.3.1/src/cmp.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/decorum-0.3.1/src/constraint.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/decorum-0.3.1/src/hash.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/decorum-0.3.1/src/primitive.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/decorum-0.3.1/src/proxy.rs
+
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/decorum-0.3.1/src/lib.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/decorum-0.3.1/src/canonical.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/decorum-0.3.1/src/cmp.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/decorum-0.3.1/src/constraint.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/decorum-0.3.1/src/hash.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/decorum-0.3.1/src/primitive.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/decorum-0.3.1/src/proxy.rs:
